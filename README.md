@@ -21,5 +21,7 @@ https://github.com/travis-ci/travis-ci/issues/1549
 
 Resource for test problems for MIPS:  
 http://www.exercism.io/languages/mips/about  
+Found at: https://github.com/blog/2324-real-time-feedback-for-students-using-continuous-integration-tools  
+
 
 
