@@ -18,3 +18,8 @@ https://github.com/travis-ci/travis-core/pull/416
 https://blog.travis-ci.com/2014-12-10-community-driven-language-support-comes-to-travis-ci/  
 
 https://github.com/travis-ci/travis-ci/issues/1549  
+
+Resource for test problems for MIPS:  
+http://www.exercism.io/languages/mips/about  
+
+
