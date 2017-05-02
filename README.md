@@ -23,5 +23,6 @@ Resource for test problems for MIPS:
 http://www.exercism.io/languages/mips/about  
 Found at: https://github.com/blog/2324-real-time-feedback-for-students-using-continuous-integration-tools  
 
-
+Automated grader for MIPS using Python:  
+https://github.com/stensonowen/spim-grader  
 
