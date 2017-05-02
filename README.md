@@ -16,3 +16,5 @@ https://github.com/travis-ci/travis-build/pull/386
 https://github.com/travis-ci/travis-build/pull/406  
 https://github.com/travis-ci/travis-core/pull/416  
 https://blog.travis-ci.com/2014-12-10-community-driven-language-support-comes-to-travis-ci/  
+
+https://github.com/travis-ci/travis-ci/issues/1549  
