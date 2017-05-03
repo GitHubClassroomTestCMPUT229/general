@@ -26,3 +26,5 @@ Found at: https://github.com/blog/2324-real-time-feedback-for-students-using-con
 Automated grader for MIPS using Python:  
 https://github.com/stensonowen/spim-grader  
 
+Explanation of Webhooks:  
+https://sendgrid.com/blog/whats-webhook/  
