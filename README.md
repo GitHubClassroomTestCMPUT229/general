@@ -7,7 +7,7 @@ https://github.com/blog/2324-real-time-feedback-for-students-using-continuous-in
 classwerk, a Python tool for facilitating GitHub as assignment management platform:  
 https://github.com/keshavdv/classwerk  
 
-classroom, a Ruby on Rails application to create classrooms (more involved process): 
+classroom, a Ruby on Rails application to create classrooms (more involved process):  
 (This looks like it's the source for the actual GitHub Classroom)  
 https://github.com/education/classroom  
 
