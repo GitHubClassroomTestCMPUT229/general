@@ -4,6 +4,9 @@ A repo to contain general information about the internship &amp; project structu
 Article on using GitHub Classroom & automation:  
 https://github.com/blog/2324-real-time-feedback-for-students-using-continuous-integration-tools  
 
+Intro resource for CI:  
+http://python-guide-pt-br.readthedocs.io/en/latest/scenarios/ci/  
+
 classwerk, a Python tool for facilitating GitHub as assignment management platform:  
 https://github.com/keshavdv/classwerk  
 
@@ -32,3 +35,8 @@ https://sendgrid.com/blog/whats-webhook/
 
 Python scheduler:  
 https://github.com/dbader/schedule  
+
+Python integration with GitHub:  
+https://github.com/PyGithub/PyGithub  (Nice documentation)  
+https://github.com/gitpython-developers/GitPython  
+
