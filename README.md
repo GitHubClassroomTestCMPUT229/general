@@ -40,3 +40,6 @@ Python integration with GitHub:
 https://github.com/PyGithub/PyGithub  (Nice documentation)  
 https://github.com/gitpython-developers/GitPython  
 
+Github API v3.0  
+https://developer.github.com/v3/  
+
