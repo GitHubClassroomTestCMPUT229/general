@@ -43,3 +43,6 @@ https://github.com/gitpython-developers/GitPython
 Github API v3.0  
 https://developer.github.com/v3/  
 
+Requests for Python  
+http://docs.python-requests.org/en/latest/index.html  
+
