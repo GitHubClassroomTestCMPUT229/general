@@ -37,6 +37,7 @@ https://sendgrid.com/blog/whats-webhook/
 
 Python scheduler:  
 https://github.com/dbader/schedule  
+http://apscheduler.readthedocs.io/en/v2.0.0rc1/  
 
 Python integration with GitHub:  
 https://github.com/PyGithub/PyGithub  (Nice documentation)  
